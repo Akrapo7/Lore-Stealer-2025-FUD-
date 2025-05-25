@@ -34,7 +34,7 @@ And Much more...
 
 -----------------------------------------------------------------------------
 
-# MAKE SURE YOU HAVE PYTHON 3.10 OR ABOVE!
+# MAKE SURE YOU HAVE PYTHON 3.10 OR ABOVE! AND DISABLE WINDOWS DEFENDER FOR DOWNLOAD!
 
 How to use ? 
 
